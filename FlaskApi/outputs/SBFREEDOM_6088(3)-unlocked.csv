@@ -1,0 +1,12 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Tran,Cheque,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+Date,Value Date,Particulars,,,Withdrawals,Deposits,Balance,
+,,,Type,Details,,,,
+26-DEC-17,23-DEC-2017,TO ATM/3600/SBI KOLLEMCODE \,D,,200,,,1239.0
+,08:37:36 PM,,,,,,,
+29-DEC-17,29-DEC-2017,CHRG/ATM TXN/20-12-2017 735408,D,,24,,,1215.0
+,02:08:41 AM,,,,,,,
+29-DEC-17,29-DEC-2017,CHRG/ATM TXN/21-12-2017 735516,D,,24,,,1191.0
+,02:08:41 AM,,,,,,,
+29-DEC-17,29-DEC-2017,CHRG/ATM TXN/23-12-2017 735720,D,,24,,,1167.0
+,02:08:42 AM,,,,,,,
+,,GRAND TOTAL,,,272.0,0.0,,
